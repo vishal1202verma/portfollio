@@ -1,0 +1,31 @@
+-- import: package/header as navbar
+-- import: package/base-layout as layout
+-- import: package/lib as lib
+-- import: package/button as button
+-- import: package/social-butttons as social 
+
+-- layout.base-layout:
+
+-- navbar.header:
+logo: $assets.files.images.logo.svg
+logoURL: /portfollio
+header-items1: Home
+header-items2: About
+header-items1: Projects
+header-items1: Contact
+header-item1-link: /portfollio/home
+header-item2-link: /portfollio/about
+header-item3-link: /portfollio/projects
+header-item4-link: /portfollio/contacts
+cta-item1: Resume
+cta-item1-link: portfollio/Resume
+
+--github.stack:
+title: Hello, I am fastn developer based in india 
+link: https://github.com/vishal1202verma
+
+
+
+-- end: layout.base-layout
+
+
